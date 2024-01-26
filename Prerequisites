@@ -5,8 +5,8 @@ On Windows, If Python doesn’t exist in the system’s PATH,
 please manually add the directory containing python.exe 
 yourself.
 
-The Software used----<br>
-Microsoft Windows10 as Operating System.
-Python 3.7 as Front-end-Development environment.
-MYSQL as Back-end Sever with Database for Testing
-MS-Word 2022 for documentation
+The Software used--
+1.Microsoft Windows 10 as Operating System.
+2.Python 3.7 as Front-end-Development environment.
+3.MYSQL as Back-end Sever with Database for Testing.
+4.MS-Word 2022 for documentation.
