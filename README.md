@@ -36,6 +36,7 @@ By using this project work one can do the following:
 8. Logout
 
 ----------DATASET------------
+
 • Symptoms of covid 19 virus
 • Details of recent covid affected patients in the hospital.
 • Details of staff members
