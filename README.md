@@ -36,10 +36,9 @@ By using this project work one can do the following:
 8. Logout
 
 ----------DATASET------------
-
-• Symptoms of covid 19 virus
-• Details of recent covid affected patients in the hospital.
-• Details of staff members
-• Password for data security
-• Patient’s personal details
+1.Symptoms of covid 19 virus
+2.Details of recent covid affected patients in the hospital.
+3.Details of staff members
+4.Password for data security
+5.Patient’s personal details
 
