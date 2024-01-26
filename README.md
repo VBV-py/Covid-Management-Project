@@ -7,13 +7,13 @@ recent time, all the important works are become slow or shut off. In this situat
 there is a lot of need of covid management system to the health authority. So I 
 have done a small project work on “COVID MANAGEMENT SYSTEM”.
 
---------OBJECTIVE----------
+--------OBJECTIVE----------<br>
 The main objective of this project is to computerize the maintenance of covid 
 patient’s details, staff details and how many active covid patients are there. 
 This project includes management of covid patients and staff in the hospital 
 and to check whether a person is affected or not.
 
------SCOPE AND SIGNIFICANCE-------
+-----SCOPE AND SIGNIFICANCE-------<br>
 The main features of this project are:
 1) To reduce paperwork
 2) To reduce time and increase efficiency
@@ -21,8 +21,8 @@ The main features of this project are:
 4) Data security
 5) Environment friendly
    
-This project is used by two types of users--
-#Patient
+This project is used by two types of users--<br>
+#Patient<br>
 #Health authority
 
 By using this project work one can do the following:
@@ -35,10 +35,10 @@ By using this project work one can do the following:
 7. Remove staff
 8. Logout
 
-----------DATASET------------
-1.Symptoms of covid 19 virus
-2.Details of recent covid affected patients in the hospital.
-3.Details of staff members
-4.Password for data security
+----------DATASET------------<br>
+1.Symptoms of covid 19 virus<br>
+2.Details of recent covid affected patients in the hospital<br>
+3.Details of staff members<br>
+4.Password for data security<br>
 5.Patient’s personal details
 
